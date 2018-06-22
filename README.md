@@ -1,2 +1,2 @@
 # Keystone
-Keyston e Automation Inc. development of Paparazzi extensions
+Keystone Automation Inc. development of Paparazzi extensions
